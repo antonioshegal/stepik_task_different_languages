@@ -1,7 +1,7 @@
 ## This repo is created for executing task on Stepik course 
 ### Link to the course's step: https://stepik.org/lesson/237240/step/10?unit=209628
 
-# INSTRUCTION
+## INSTRUCTION
 
 ### 1. Clone repo
 
